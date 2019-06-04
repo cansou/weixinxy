@@ -3,7 +3,6 @@
 ![demo2](https://github.com/crsec/weixinxy/blob/master/png2.png) <br/>
 
 核心源码暂时不放github了。如需要研究源码学习，请联系qq：1435359355。<br/>
-# 奖励计划
-每多8个star，则随机赠送1人协议源码！
+
 # 声明
 仅供自己学习研究使用，引起任何法律纠纷概不负责
