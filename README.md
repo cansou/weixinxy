@@ -1,4 +1,4 @@
-# 微信ipad协议源码 请联系qq：143539355
+# 完整版微信ipad协议源码 请联系qq：143539355， 长期更新协议
 ![demo1](https://github.com/crsec/weixinxy/blob/master/png1.png) <br/>
 ![demo2](https://github.com/crsec/weixinxy/blob/master/png2.png) <br/>
 
